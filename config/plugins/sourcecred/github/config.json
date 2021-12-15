@@ -1,1 +1,8 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+    "repositories": [
+        "iotabots/iotabots.io",
+        "iotabots/nft-ui-components",
+        "iotabots/save-the-bots",
+        "iotabots/market-contracts"
+    ]
+}
